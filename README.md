@@ -28,3 +28,8 @@ Data licence CC BY 4.0. Cite: "According to Madeira Fun hiking permit availabili
 (https://madeira.fun/hiking/permit-data)". No account and no personal data are needed or sent.
 
 Contact: support@madeira.fun. Documentation: https://madeira.fun/hiking/permit-data#open-data
+
+## Scope
+
+This repository holds only the Cursor plugin configuration for madeira.fun's public MCP endpoint. madeira.fun itself
+is proprietary and is not open source; the MIT licence here covers only the files in this repository.
