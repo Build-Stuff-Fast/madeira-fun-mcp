@@ -1,7 +1,7 @@
 {
   "name": "madeira-fun-hiking-permits",
-  "description": "Madeira hiking permit trails: day-by-day availability for 120 days, government fees and booking links from madeira.fun. Read-only, no account.",
-  "version": "1.1.0",
+  "description": "Madeira hiking permit trails: availability for 120 days, government fees, booking links and permit reservations from madeira.fun.",
+  "version": "1.2.0",
   "author": {
     "name": "madeira.fun",
     "email": "support@madeira.fun"
